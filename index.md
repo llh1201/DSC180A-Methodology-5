@@ -1,4 +1,6 @@
-Lihao Liu, liliu@ucsd.edu, Genetic risk prediction of gene expression, complex traits, and polygenic disease, DSC180 A02, Tiffany Amariuta
+Lihao Liu, liliu@ucsd.edu
+
+"Genetic risk prediction of gene expression, complex traits, and polygenic disease", DSC180 A02, Tiffany Amariuta
 
 **Question 1: What is the most interesting topic covered in your domain this quarter?**
 
